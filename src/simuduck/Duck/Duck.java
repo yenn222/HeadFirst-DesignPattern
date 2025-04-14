@@ -1,7 +1,7 @@
-package SimUDuck.Duck;
+package simuduck.Duck;
 
-import SimUDuck.Fly.FlyBehavior;
-import SimUDuck.Quack.QuackBehavior;
+import simuduck.Fly.FlyBehavior;
+import simuduck.Quack.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

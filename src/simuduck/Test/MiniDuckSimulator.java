@@ -1,9 +1,9 @@
-package SimUDuck.Test;
+package simuduck.Test;
 
-import SimUDuck.Duck.Duck;
-import SimUDuck.Fly.FlyRocketPowered;
-import SimUDuck.Duck.MalladDuck;
-import SimUDuck.Duck.ModalDuck;
+import simuduck.Duck.Duck;
+import simuduck.Fly.FlyRocketPowered;
+import simuduck.Duck.MalladDuck;
+import simuduck.Duck.ModalDuck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

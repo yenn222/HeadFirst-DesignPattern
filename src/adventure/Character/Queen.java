@@ -1,4 +1,4 @@
-package Adventure.Character;
+package adventure.Character;
 
 public class Queen extends Character {
     @Override

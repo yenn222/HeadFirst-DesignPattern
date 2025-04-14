@@ -1,4 +1,4 @@
-package Adventure.Weapon;
+package adventure.Weapon;
 
 public class BowAndArrowBehavior implements WeaponBehavior{
     @Override

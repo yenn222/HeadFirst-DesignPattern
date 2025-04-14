@@ -1,7 +1,7 @@
-package SimUDuck.Duck;
+package simuduck.Duck;
 
-import SimUDuck.Fly.FlyWithWings;
-import SimUDuck.Quack.Quack;
+import simuduck.Fly.FlyWithWings;
+import simuduck.Quack.Quack;
 
 public class MalladDuck extends Duck {
 

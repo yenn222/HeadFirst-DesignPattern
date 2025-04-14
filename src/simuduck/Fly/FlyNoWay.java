@@ -1,4 +1,4 @@
-package SimUDuck.Fly;
+package simuduck.Fly;
 
 public class FlyNoWay implements FlyBehavior {
 

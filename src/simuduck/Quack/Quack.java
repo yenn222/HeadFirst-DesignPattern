@@ -1,4 +1,4 @@
-package SimUDuck.Quack;
+package simuduck.Quack;
 
 public class Quack implements QuackBehavior {
 

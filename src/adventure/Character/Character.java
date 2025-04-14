@@ -1,6 +1,6 @@
-package Adventure.Character;
+package adventure.Character;
 
-import Adventure.Weapon.WeaponBehavior;
+import adventure.Weapon.WeaponBehavior;
 
 public abstract class Character {
     WeaponBehavior weapon;

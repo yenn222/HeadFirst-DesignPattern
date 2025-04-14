@@ -1,4 +1,4 @@
-package SimUDuck.Fly;
+package simuduck.Fly;
 
 public class FlyRocketPowered implements FlyBehavior {
     public void fly() {

@@ -1,7 +1,7 @@
-package SimUDuck.Duck;
+package simuduck.Duck;
 
-import SimUDuck.Fly.FlyNoWay;
-import SimUDuck.Quack.Quack;
+import simuduck.Fly.FlyNoWay;
+import simuduck.Quack.Quack;
 
 public class ModalDuck extends Duck {
     public ModalDuck() {
